@@ -1,4 +1,3 @@
-# Timeless-Legal
 # Timeless | Wisdom
 ### Support & Legal Information
 
