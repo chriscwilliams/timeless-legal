@@ -1,8 +1,8 @@
 # Timeless-Legal
-# Timeless: Daily Proverbs
+# Timeless | Wisdom
 ### Support & Legal Information
 
-Timeless is a scripture study and personal curation app for the Book of Proverbs, 
+Timeless | Wisdom is a scripture study and personal curation app for the Book of Proverbs, 
 available on the iOS App Store.
 
 ---
@@ -22,10 +22,10 @@ We aim to respond to all support requests within 48 hours.
 **My notes / collections / favorites disappeared after an update.**
 All your data is stored locally on your device. If you deleted and reinstalled 
 the app, your data will not be restored unless you have an iCloud device backup 
-from before the deletion. We recommend keeping iCloud backup enabled.
+from before the deletion.
 
 **The widget is showing a placeholder instead of a verse.**
-Open the Timeless app once and the widget will update automatically within 
+Open the Timeless | Wisdom app once and the widget will update automatically within 
 a few seconds.
 
 **My daily notification isn't showing the verse text.**
@@ -42,14 +42,14 @@ Go to the Collections tab → tap the + button in the top right corner.
 Open any proverb card → tap the ••• menu → tap Add Note.
 
 **Which Bible translations are available?**
-Timeless includes the World English Bible (WEB) and the King James 
+Timeless | Wisdom includes the World English Bible (WEB) and the King James 
 Version (KJV). Both are in the public domain.
 
 **How do I change the card background?**
 Tap the ••• menu on any card → Appearance → Card Background.
 
 **Is my data private?**
-Yes. Timeless does not collect, transmit, or store any personal data on 
+Yes. Timeless | Wisdom does not collect, transmit, or store any personal data on 
 external servers. Everything stays on your device. See our full 
 Privacy Policy below.
 
