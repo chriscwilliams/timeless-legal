@@ -11,7 +11,7 @@ available on the iOS App Store.
 
 Having an issue or have a question? We're here to help.
 
-**Email:** [your-email@gmail.com]
+**Email:** dev.ccplusw@gmail.com
 
 We aim to respond to all support requests within 48 hours.
 
