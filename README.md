@@ -10,7 +10,7 @@ available on the iOS App Store.
 
 Having an issue or have a question? We're here to help.
 
-**Email:** dev.ccplusw@gmail.com
+**Email:** ruby.94-gloss@icloud.com
 
 We aim to respond to all support requests within 48 hours.
 
